@@ -1,0 +1,6 @@
+500ae3f37a9ceccd5561c8251f385429 *DESCRIPTION
+6d6f2af25279ab5c19a824938fdfda95 *NAMESPACE
+ea1df8876a39de5d01baadd799e2a0d8 *R/hmc.R
+d3ada0a2510cfddce3ed0a374623226b *man/hamiltonian_dynamics.Rd
+15940a728bd0d5ab3136e88144f37cb9 *man/hmc.Rd
+8f85fb32de3c14b1f7298a19fec614b1 *man/num_grad.Rd
